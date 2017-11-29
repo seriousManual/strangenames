@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "create random strange name combinations",
   "main": "index.js",
-  "scripts": {
-    
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:seriousManual/strangenames.git"
   },
+  "scripts": {},
   "keywords": ["strange names", "combinations"],
   "author": "Manuel Ernst <seriousstuff@gmx.de>",
   "license": "MIT",
