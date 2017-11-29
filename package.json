@@ -1,14 +1,17 @@
 {
   "name": "strangenames",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create random strange name combinations",
   "main": "index.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "git@github.com:seriousManual/strangenames.git"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seriousManual/strangenames.git"
   },
   "scripts": {},
-  "keywords": ["strange names", "combinations"],
+  "keywords": [
+    "strange names",
+    "combinations"
+  ],
   "author": "Manuel Ernst <seriousstuff@gmx.de>",
   "license": "MIT",
   "dependencies": {
