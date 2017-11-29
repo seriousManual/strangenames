@@ -1,0 +1,15 @@
+{
+  "name": "strangenames",
+  "version": "1.0.0",
+  "description": "create random strange name combinations",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": ["strange names", "combinations"],
+  "author": "Manuel Ernst <seriousstuff@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "dedupe": "^2.1.0"
+  }
+}
